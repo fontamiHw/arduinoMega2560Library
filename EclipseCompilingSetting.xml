@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="s,S,asm">
+<includepath>E:/Win/hw/arduino-0022/hardware/arduino/cores/arduino</includepath>
+
+</language>
+<language name="C Source File">
+<includepath>E:/Win/hw/arduino-0022/hardware/arduino/cores/arduino</includepath>
+
+</language>
+<language name="C++ Source File">
+<includepath>E:/Win/hw/arduino-0022/hardware/arduino/cores/arduino</includepath>
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="s,S,asm">
+
+</language>
+<language name="C Source File">
+
+</language>
+<language name="C++ Source File">
+
+</language>
+</section>
+</cdtprojectproperties>

@@ -1,0 +1,7 @@
+The following project create the needed Ardino Mega2560 library for the eclipse project.
+
+
+Eclipse setting:
+Import the eclipseCompileSetting.xml configuration file and adapt the directories.
+
+
